@@ -1,4 +1,4 @@
-# OperacionFuegoQuasar
+# Operacion Fuego Quasar
 Servicio que permite triangular la posicion de una nave tomando como referencia las coordenadas de 3 satelites y la distancia que hay entre la nave y cada uno de los satelites, recibiendo un mensaje en cada uno de ellos, de esta manera poder conocer la posicion de la nave y el mensaje enviado.
 
 # Desarrollo
