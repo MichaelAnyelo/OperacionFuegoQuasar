@@ -85,7 +85,7 @@ Recibe por parametro el nombre del satelite de manera individual y en formato JS
 
 
 
-### **GET**  [https://ttl-18h-xufmqzwvgq-uc.a.run.app/topsecret_split
+### **GET**  [https://ttl-18h-xufmqzwvgq-uc.a.run.app/topsecret_split]
 
 ### *Descripción*
 
