@@ -22,7 +22,7 @@ Para la construccion del servicio se utilizó lo siguiente:
 
 El servicio se encentra hospedado en GCP y posee los siguientes endpoints de cada uno de sus servicios:
 
-### **POST**  [https://wired-depot-326700.uc.r.appspot.com/topsecret/]
+### **POST**  [https://ttl-18h-xufmqzwvgq-uc.a.run.app/topsecret/]
 
 ### *Descripción*
 
@@ -65,7 +65,7 @@ Recibe en formato JSON la distancia en un arreglo el mensaje, el nombre del sate
               "message": "este es un mensaje secreto "
           }
 
-### **POST**  [https://wired-depot-326700.uc.r.appspot.com/topsecret_split/{NombreSatelite}]
+### **POST**  [https://ttl-18h-xufmqzwvgq-uc.a.run.app/topsecret_split/{NombreSatelite}]
 
 ### *Descripción*
 
@@ -85,7 +85,7 @@ Recibe por parametro el nombre del satelite de manera individual y en formato JS
 
 
 
-### **GET**  [https://wired-depot-326700.uc.r.appspot.com/topsecret_split
+### **GET**  [https://ttl-18h-xufmqzwvgq-uc.a.run.app/topsecret_split
 
 ### *Descripción*
 
