@@ -35,7 +35,7 @@ public class CommunicationController {
 	
 
 	@PostMapping("/topsecret/")
-	public ResponseEntity<?> topSecret(@RequestBody Communications comunications) {
+	public ResponseEntity<Nave> topSecret(@RequestBody Communications comunications) {
 
 		List<Double> lpos = new ArrayList<>(Arrays.asList());
 		List<String[]> ms = new ArrayList<String[]>();
