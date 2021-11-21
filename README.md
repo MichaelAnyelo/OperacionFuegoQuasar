@@ -104,6 +104,10 @@ Devuelve la posicion y mensaje de la nave, de acuerdo a las distancias y mensaje
               "message": "este es un mensaje secreto "
           }
           
+# Pruebas unitarias
 
+Se realizaron pruebas unitarias para las clases controller y service, para esto se uso Junit, Mockito y Jacoco(para coverage)
+
+![Alt text](https://github.com/MichaelAnyelo/OperacionFuegoQuasar/blob/main/img/UnitTest.png "Test Unitarios")
 
 
